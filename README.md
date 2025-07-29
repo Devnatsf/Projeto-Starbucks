@@ -14,4 +14,4 @@
 <li>Aplicar conceitos de responsividade e interatividade </li>
 <br>
 <h3> 📸 Prévia</h3>
-<img src="">
+<img src="https://raw.githubusercontent.com/Devnatsf/Projeto-Starbucks/a6941cb46e4f496d7a1ac10313892d2bbf7334f2/img/print%20.jpg">
